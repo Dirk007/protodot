@@ -84,7 +84,7 @@
 	"locations": {
 		"graphviz": "dot",
 		"generated": "${HOME}/protodot/generated",
-		"templates": "${HOME}/protodot/templates",
+		"templates": "${config.dir}/templates",
 		"downloads": "${HOME}/protodot/downloads",
 		"action": ""
 	},
